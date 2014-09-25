@@ -1,0 +1,40 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[辛希孟~等(1994)]{xin1994}
+辛希孟, 中国科学院文献信息中心, 孟广均,等.
+\newblock 信息技术与信息服务国际研讨会论文集[C].
+\newblock 北京: 中国社会科学出版社, 1994:45--49.
+
+\bibitem[林来兴(1992)]{lin1992}
+林来兴.
+\newblock 空间控制技术[M].
+\newblock 北京: 宇航出版社, 1992:25--42.
+
+\bibitem[赵耀东(1998)]{zhao1998}
+赵耀东.
+\newblock 新时代的工业工程师[M/OL].
+\newblock 台北: 天下文化出版社, 1998[1998-09-26].
+\newblock \url{http://www.ie.nthu.edu.tw/info/ie.newie.htm(Big5)}.
+
+\bibitem[谌颖(1992)]{Chen1992}
+谌颖.
+\newblock 空间最优交会控制理论与方法研究[D].
+\newblock 哈尔滨: 哈尔滨工业大学, 1992:8--13.
+
+\bibitem[Kanamori(1998)]{kanamori1998shaking}
+Kanamori H.
+\newblock Shaking without Quaking[J].
+\newblock Science, 1998, 279(5359):2063--2064.
+
+\bibitem[Mlot(1998)]{mlot1998plant}
+Mlot C.
+\newblock Plant Biology in the Genome Era[J/OL].
+\newblock Science, 1998, 281(5375):331--332[1998-09-23].
+\newblock \url{http://www.sciencemag.org/cgi/collection/anatmorp}.
+
+\end{thebibliography}
